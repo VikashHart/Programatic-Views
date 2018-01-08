@@ -35,16 +35,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		819DD2B41FFE86D60076FB9E /* programaticTableViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = programaticTableViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		819DD2B41FFE86D60076FB9E /* programmaticTableViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = programmaticTableViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		819DD2B71FFE86D60076FB9E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		819DD2B91FFE86D60076FB9E /* ExerciseOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseOneViewController.swift; sourceTree = "<group>"; };
 		819DD2BE1FFE86D60076FB9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		819DD2C11FFE86D60076FB9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		819DD2C31FFE86D60076FB9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		819DD2C81FFE86D60076FB9E /* programaticTableViewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = programaticTableViewsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		819DD2C81FFE86D60076FB9E /* programmaticTableViewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = programmaticTableViewsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		819DD2CC1FFE86D60076FB9E /* programaticTableViewsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programaticTableViewsTests.swift; sourceTree = "<group>"; };
 		819DD2CE1FFE86D60076FB9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		819DD2D31FFE86D60076FB9E /* programaticTableViewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = programaticTableViewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		819DD2D31FFE86D60076FB9E /* programmaticTableViewsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = programmaticTableViewsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		819DD2D71FFE86D60076FB9E /* programaticTableViewsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = programaticTableViewsUITests.swift; sourceTree = "<group>"; };
 		819DD2D91FFE86D60076FB9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		819DD2E51FFE8C130076FB9E /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
@@ -89,9 +89,9 @@
 		819DD2B51FFE86D60076FB9E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				819DD2B41FFE86D60076FB9E /* programaticTableViews.app */,
-				819DD2C81FFE86D60076FB9E /* programaticTableViewsTests.xctest */,
-				819DD2D31FFE86D60076FB9E /* programaticTableViewsUITests.xctest */,
+				819DD2B41FFE86D60076FB9E /* programmaticTableViews.app */,
+				819DD2C81FFE86D60076FB9E /* programmaticTableViewsTests.xctest */,
+				819DD2D31FFE86D60076FB9E /* programmaticTableViewsUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -131,9 +131,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		819DD2B31FFE86D60076FB9E /* programaticTableViews */ = {
+		819DD2B31FFE86D60076FB9E /* programmaticTableViews */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 819DD2DC1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programaticTableViews" */;
+			buildConfigurationList = 819DD2DC1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programmaticTableViews" */;
 			buildPhases = (
 				819DD2B01FFE86D60076FB9E /* Sources */,
 				819DD2B11FFE86D60076FB9E /* Frameworks */,
@@ -143,14 +143,14 @@
 			);
 			dependencies = (
 			);
-			name = programaticTableViews;
+			name = programmaticTableViews;
 			productName = programaticTableViews;
-			productReference = 819DD2B41FFE86D60076FB9E /* programaticTableViews.app */;
+			productReference = 819DD2B41FFE86D60076FB9E /* programmaticTableViews.app */;
 			productType = "com.apple.product-type.application";
 		};
-		819DD2C71FFE86D60076FB9E /* programaticTableViewsTests */ = {
+		819DD2C71FFE86D60076FB9E /* programmaticTableViewsTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 819DD2DF1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programaticTableViewsTests" */;
+			buildConfigurationList = 819DD2DF1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programmaticTableViewsTests" */;
 			buildPhases = (
 				819DD2C41FFE86D60076FB9E /* Sources */,
 				819DD2C51FFE86D60076FB9E /* Frameworks */,
@@ -161,14 +161,14 @@
 			dependencies = (
 				819DD2CA1FFE86D60076FB9E /* PBXTargetDependency */,
 			);
-			name = programaticTableViewsTests;
+			name = programmaticTableViewsTests;
 			productName = programaticTableViewsTests;
-			productReference = 819DD2C81FFE86D60076FB9E /* programaticTableViewsTests.xctest */;
+			productReference = 819DD2C81FFE86D60076FB9E /* programmaticTableViewsTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		819DD2D21FFE86D60076FB9E /* programaticTableViewsUITests */ = {
+		819DD2D21FFE86D60076FB9E /* programmaticTableViewsUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 819DD2E21FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programaticTableViewsUITests" */;
+			buildConfigurationList = 819DD2E21FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programmaticTableViewsUITests" */;
 			buildPhases = (
 				819DD2CF1FFE86D60076FB9E /* Sources */,
 				819DD2D01FFE86D60076FB9E /* Frameworks */,
@@ -179,9 +179,9 @@
 			dependencies = (
 				819DD2D51FFE86D60076FB9E /* PBXTargetDependency */,
 			);
-			name = programaticTableViewsUITests;
+			name = programmaticTableViewsUITests;
 			productName = programaticTableViewsUITests;
-			productReference = 819DD2D31FFE86D60076FB9E /* programaticTableViewsUITests.xctest */;
+			productReference = 819DD2D31FFE86D60076FB9E /* programmaticTableViewsUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -210,7 +210,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 819DD2AF1FFE86D50076FB9E /* Build configuration list for PBXProject "programaticTableViews" */;
+			buildConfigurationList = 819DD2AF1FFE86D50076FB9E /* Build configuration list for PBXProject "programmaticTableViews" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -223,9 +223,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				819DD2B31FFE86D60076FB9E /* programaticTableViews */,
-				819DD2C71FFE86D60076FB9E /* programaticTableViewsTests */,
-				819DD2D21FFE86D60076FB9E /* programaticTableViewsUITests */,
+				819DD2B31FFE86D60076FB9E /* programmaticTableViews */,
+				819DD2C71FFE86D60076FB9E /* programmaticTableViewsTests */,
+				819DD2D21FFE86D60076FB9E /* programmaticTableViewsUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -289,12 +289,12 @@
 /* Begin PBXTargetDependency section */
 		819DD2CA1FFE86D60076FB9E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 819DD2B31FFE86D60076FB9E /* programaticTableViews */;
+			target = 819DD2B31FFE86D60076FB9E /* programmaticTableViews */;
 			targetProxy = 819DD2C91FFE86D60076FB9E /* PBXContainerItemProxy */;
 		};
 		819DD2D51FFE86D60076FB9E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 819DD2B31FFE86D60076FB9E /* programaticTableViews */;
+			target = 819DD2B31FFE86D60076FB9E /* programmaticTableViews */;
 			targetProxy = 819DD2D41FFE86D60076FB9E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -458,7 +458,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/programaticTableViews.app/programaticTableViews";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/programmaticTableViews.app/programmaticTableViews";
 			};
 			name = Debug;
 		};
@@ -474,7 +474,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/programaticTableViews.app/programaticTableViews";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/programmaticTableViews.app/programmaticTableViews";
 			};
 			name = Release;
 		};
@@ -511,7 +511,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		819DD2AF1FFE86D50076FB9E /* Build configuration list for PBXProject "programaticTableViews" */ = {
+		819DD2AF1FFE86D50076FB9E /* Build configuration list for PBXProject "programmaticTableViews" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				819DD2DA1FFE86D60076FB9E /* Debug */,
@@ -520,7 +520,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		819DD2DC1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programaticTableViews" */ = {
+		819DD2DC1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programmaticTableViews" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				819DD2DD1FFE86D60076FB9E /* Debug */,
@@ -529,7 +529,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		819DD2DF1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programaticTableViewsTests" */ = {
+		819DD2DF1FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programmaticTableViewsTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				819DD2E01FFE86D60076FB9E /* Debug */,
@@ -538,7 +538,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		819DD2E21FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programaticTableViewsUITests" */ = {
+		819DD2E21FFE86D60076FB9E /* Build configuration list for PBXNativeTarget "programmaticTableViewsUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				819DD2E31FFE86D60076FB9E /* Debug */,
